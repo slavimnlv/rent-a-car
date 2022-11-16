@@ -1,0 +1,260 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "fullName": "Slavi Ivanov",
+      "email": "slavi@mail.com",
+      "phone": "0892360478"
+    },
+    {
+      "id": 2,
+      "fullName": "Aleks Georgiev",
+      "email": "aleks@mail.com",
+      "phone": "0891659984"
+    },
+    {
+      "fullName": "George T.",
+      "email": "gosho@mail.com",
+      "phone": "0876542589",
+      "id": 3
+    },
+    {
+      "fullName": "Maria Todorova",
+      "email": "todorova@mail.com",
+      "phone": "0878754522",
+      "id": 4
+    },
+    {
+      "fullName": "Maya Ivanova",
+      "email": "mivn@mail.com",
+      "phone": "08988213352",
+      "id": 5
+    },
+    {
+      "fullName": "Todor Nikolov",
+      "email": "todor@mail.com",
+      "phone": "0892765489",
+      "id": 6
+    },
+    {
+      "fullName": "Monika Kostadinova",
+      "email": "monikak@mail.com",
+      "phone": "08865342625",
+      "id": 7
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "fuel": "Petrol",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2016,
+      "seats": 5,
+      "type": "Economy",
+      "picture": "https://tdrresearch.azureedge.net/photos/chrome/Expanded/White/2016AUC010002/2016AUC01000201.jpg",
+      "price": "100",
+      "count": "11"
+    },
+    {
+      "fuel": "Diesel",
+      "brand": "Volvo",
+      "model": "XC40",
+      "year": "2018",
+      "seats": "5",
+      "type": "SUV",
+      "picture": "https://www.aserviz.bg/news/24/main_image.jpg",
+      "price": "150",
+      "count": "11",
+      "id": 2
+    },
+    {
+      "fuel": "Petrol",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2022",
+      "seats": "7",
+      "type": "Luxury",
+      "picture": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614871/2022_genesis_g80_angularfront.jpg",
+      "price": "250",
+      "count": "11",
+      "id": 3
+    },
+    {
+      "fuel": "Petrol",
+      "brand": "Skoda",
+      "model": "Kodiaq",
+      "year": "2021",
+      "seats": "5",
+      "type": "SUV",
+      "picture": "https://car-data.carwow.co.uk/image?filter%5Bbrand_slug%5D=skoda&filter%5Bcolour%5D=silver&filter%5Bmodel_review_slug%5D=kodiaq",
+      "price": "115",
+      "count": "12",
+      "id": 4
+    },
+    {
+      "fuel": "Petrol",
+      "brand": "Rolls Royce ",
+      "model": "Black Badge",
+      "year": "2022",
+      "seats": "4",
+      "type": "Luxury",
+      "picture": "https://vehicle-photos-published.vauto.com/b0/ee/8a/ff-6036-4338-9d9d-9d9cde8c6308/image-1.jpg",
+      "price": "350",
+      "count": "4",
+      "id": 5
+    },
+    {
+      "fuel": "Diesel",
+      "brand": "Jaguar",
+      "model": "XF Sportbrake",
+      "year": "2019",
+      "seats": "5",
+      "type": "Estate",
+      "picture": "https://www.telegraph.co.uk/content/dam/cars/2018/02/26/XF-Sportbrake-main_trans_NvBQzQNjv4Bq4asBiRJGSKHr_5b6IrV-mj9u02mpylQuzRtq5FYa_0c.jpg",
+      "price": "175",
+      "count": "14",
+      "id": 6
+    },
+    {
+      "fuel": "Petrol",
+      "brand": "Skoda",
+      "model": "Superb Estate",
+      "year": "2020",
+      "seats": "7",
+      "type": "Estate",
+      "picture": "https://iprenders.blob.core.windows.net/basenx5s23100413/K4K4xXPLcdVFD-LPqyoRvYx-eotH6RxG05YCMaO-PqKT3kFiaBWypDf.9U8wsN-1L52rJcWQORatwBFeVhzo7gm-HRJTMEDO-19201080dayvext_front1000080.png?v=637896119030000000",
+      "price": "225",
+      "count": "13",
+      "id": 7
+    },
+    {
+      "fuel": "Hybrid",
+      "brand": "Lexus ",
+      "model": "LS 500",
+      "year": "2022",
+      "seats": "3",
+      "type": "Luxury",
+      "picture": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/335914f5-7308-4bcb-82a1-312c41461b67.png",
+      "price": "300",
+      "count": "5",
+      "id": 8
+    },
+    {
+      "fuel": "Diesel",
+      "brand": "Volkswagen ",
+      "model": "Golf V",
+      "year": "2016",
+      "seats": "5",
+      "type": "Economy",
+      "picture": "https://cdn3.focus.bg/autodata/i/volkswagen/golf/golf-v/large/4f8c463afaf77d88869d24fb333a68d1.jpg",
+      "price": "75",
+      "count": "16",
+      "id": 9
+    },
+    {
+      "fuel": "Petrol",
+      "brand": "Ford ",
+      "model": "Focus",
+      "year": "2018",
+      "seats": "5",
+      "type": "Economy",
+      "picture": "https://www.dreamscience-automotive.co.uk/app/uploads/2019/11/01_31.jpg",
+      "price": "150",
+      "count": "8",
+      "id": 10
+    }
+  ],
+  "rentals": [
+    {
+      "customerId": "2",
+      "carId": "3",
+      "startDate": "2022-10-25T02:51",
+      "endDate": "2022-10-27T02:51",
+      "id": 2,
+      "price": "250",
+      "returned": true,
+      "taken": true
+    },
+    {
+      "customerId": "1",
+      "carId": "1",
+      "startDate": "2022-11-12T15:58",
+      "endDate": "2022-11-13T15:58",
+      "price": "100",
+      "id": 3,
+      "returned": true,
+      "taken": true
+    },
+    {
+      "customerId": "3",
+      "carId": "2",
+      "startDate": "2022-11-12T18:36",
+      "endDate": "2022-11-15T18:36",
+      "price": 150,
+      "id": 7,
+      "returned": true,
+      "taken": true
+    },
+    {
+      "customerId": "1",
+      "carId": "3",
+      "startDate": "2022-11-15T02:18",
+      "endDate": "2022-11-16T02:18",
+      "price": 250,
+      "returned": true,
+      "taken": true,
+      "id": 8
+    },
+    {
+      "customerId": "1",
+      "carId": "1",
+      "startDate": "2022-11-15T02:19",
+      "endDate": "2022-11-16T02:19",
+      "price": 100,
+      "returned": true,
+      "taken": true,
+      "id": 9
+    },
+    {
+      "customerId": "1",
+      "carId": "9",
+      "startDate": "2022-11-16T18:48",
+      "endDate": "2022-11-17T18:48",
+      "price": 63.75,
+      "returned": false,
+      "taken": true,
+      "id": 10
+    },
+    {
+      "customerId": "5",
+      "carId": "5",
+      "startDate": "2022-11-16T18:50",
+      "endDate": "2022-11-20T18:50",
+      "price": 1358,
+      "returned": false,
+      "taken": true,
+      "id": 11
+    },
+    {
+      "customerId": "7",
+      "carId": "4",
+      "startDate": "2022-11-20T18:51",
+      "endDate": "2022-11-26T18:51",
+      "price": 655.5,
+      "returned": false,
+      "taken": false,
+      "id": 12
+    },
+    {
+      "customerId": "6",
+      "carId": "6",
+      "startDate": "2022-11-16T18:59",
+      "endDate": "2022-11-27T18:59",
+      "price": 1732.5,
+      "returned": false,
+      "taken": true,
+      "id": 13
+    }
+  ]
+}
